@@ -37,6 +37,6 @@ Currently exploring:
 ## 📫 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/gautam-kumar-994135283](http://www.linkedin.com/in/gautam-kumar-994135283)
-* GitHub: github.com/itzmegautam
+* GitHub:   [ github.com/itzmegautam](https://github.com/itzmegautam) 
 
 ⭐ Always open to learning, collaborating, and exploring opportunities in Data Analytics & Business Intelligence.
