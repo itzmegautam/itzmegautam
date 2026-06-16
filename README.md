@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Gautam Kumar
 
-<!--
-**itzmegautam/itzmegautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Civil Engineering Student at NIT Agartala
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst passionate about transforming data into meaningful insights through dashboards, visualizations, and analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring:
+
+* 📈 Power BI Dashboard Development
+* 🗄️ SQL for Data Analysis
+* 🐍 Python (Pandas, NumPy, Matplotlib)
+* 📊 Business Intelligence & Data Visualization
+
+## 🚀 What You'll Find Here
+
+* Power BI Dashboard Projects
+* Data Analytics Case Studies
+* SQL Practice & Analysis Projects
+* Learning Journey & Technical Experiments
+
+## 🛠️ Tech Stack
+
+* Power BI
+* SQL
+* Python
+* MS Excel
+* Power Query
+* DAX
+* Git & GitHub
+
+## 🌱 Currently Working On
+
+* Supply Chain Analytics Dashboard
+* Sales Analytics Dashboard
+* SQL Data Analysis Projects
+
+## 📫 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/gautam-kumar-994135283](http://www.linkedin.com/in/gautam-kumar-994135283)
+* GitHub: github.com/itzmegautam
+
+⭐ Always open to learning, collaborating, and exploring opportunities in Data Analytics & Business Intelligence.
